@@ -1,2 +1,3 @@
-# e-aranda.github.io
-Sitio web experimental
+# web
+Ejercicio de curso "Introducción a LINUX ..."
+
